@@ -1,0 +1,14 @@
+.navbar {
+  padding: 25px;
+  background-color: white !important;
+}
+.displayNumber {
+  font-size: 120px;
+}
+.container-buttons {
+  padding: 0 25%;
+}
+.container-buttons .buttons {
+  padding: 10px;
+  width: 100%;
+}
